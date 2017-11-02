@@ -44,7 +44,7 @@ The compiler supports a subset of the Python language ( in the same way that a _
 
 ## Installation
 
-#### Pip
+#### Using pip
 
 ``` 
 pip install neo-boa
